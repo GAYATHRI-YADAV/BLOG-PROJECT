@@ -18,14 +18,6 @@ const blogSchema = new mongoose.Schema({
         required:[true,"content is required"],
     },
     comment: [{
-        // text: {
-        //     type: String,
-        //     required: true,
-        // },
-        // username: {
-        //     type: String,
-        //     required: true,
-        // },
         username: {
             type: String,
             required: true,
@@ -33,7 +25,6 @@ const blogSchema = new mongoose.Schema({
           },
         comment: String,
         createdAt: Date
-        // Optionally, you can add fields like author, timestamp, etc.
     }],
     user:{
         type:mongoose.Types.ObjectId,
