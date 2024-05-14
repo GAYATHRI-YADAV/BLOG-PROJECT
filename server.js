@@ -17,7 +17,7 @@ connenctDB()
 const userRoutes = require('./routes/userRoutes')
 const blogRoutes = require('./routes/blogRoutes')
 
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 10000;
 const app = express()
 
 //middelwares
