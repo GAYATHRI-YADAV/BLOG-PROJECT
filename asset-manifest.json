@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/InnoTech-Blog/static/css/main.1a195397.css",
-    "main.js": "/InnoTech-Blog/static/js/main.492c2344.js",
-    "static/js/453.d855a71b.chunk.js": "/InnoTech-Blog/static/js/453.d855a71b.chunk.js",
-    "index.html": "/InnoTech-Blog/index.html",
-    "main.1a195397.css.map": "/InnoTech-Blog/static/css/main.1a195397.css.map",
-    "main.492c2344.js.map": "/InnoTech-Blog/static/js/main.492c2344.js.map",
-    "453.d855a71b.chunk.js.map": "/InnoTech-Blog/static/js/453.d855a71b.chunk.js.map"
+    "main.css": "/BLOG-PROJECT/static/css/main.1a195397.css",
+    "main.js": "/BLOG-PROJECT/static/js/main.228e0199.js",
+    "static/js/453.d855a71b.chunk.js": "/BLOG-PROJECT/static/js/453.d855a71b.chunk.js",
+    "index.html": "/BLOG-PROJECT/index.html",
+    "main.1a195397.css.map": "/BLOG-PROJECT/static/css/main.1a195397.css.map",
+    "main.228e0199.js.map": "/BLOG-PROJECT/static/js/main.228e0199.js.map",
+    "453.d855a71b.chunk.js.map": "/BLOG-PROJECT/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a195397.css",
-    "static/js/main.492c2344.js"
+    "static/js/main.228e0199.js"
   ]
 }
